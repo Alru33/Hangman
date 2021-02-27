@@ -1,8 +1,6 @@
 <p align="center">
-  <a>
-    <img src="http://www.icons101.com/icons/37/Brain_Games_by_QuizAnswers/128/Hangman-Game-red.Png" width="250">
-  </a>
- </p>
+  <img src="https://github.com/Alru33/hangman/blob/main/image/hangman.png" width="250">
+</p>
 
 ## Компьютерная игра Виселица
 
