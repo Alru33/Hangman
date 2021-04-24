@@ -45,7 +45,7 @@ class ConsoleInterface
   end
 
   def get_input
-    print 'Введите следующую букву: '.colorize(:light_green)
+    print 'Введите следующую букву: '.light_green
     gets[0].upcase
   end
 end
