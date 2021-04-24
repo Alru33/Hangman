@@ -33,8 +33,9 @@
 /hangman/data/words.txt
 ```
 ---
-Для запуска игры из консоли:
+*Для запуска игры из консоли:*
 
 ```
-ruby main.rb
+$ bundle install
+$ bundle exec ruby main.rb
 ```
